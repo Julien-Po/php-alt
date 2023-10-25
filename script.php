@@ -1,5 +1,5 @@
 <!--On appelle jquery -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 <!--On définit le type du script-->
 <script type="text/javascript">
     //On crée la fonction submitData que l'on peut voir dans l'index
